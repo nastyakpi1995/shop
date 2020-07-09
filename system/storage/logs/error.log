@@ -1,0 +1,56 @@
+2020-06-23 7:09:13 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\shop\system\library\db\mysqli.php on line 7
+2020-06-23 7:09:13 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\shop\system\library\db\mysqli.php on line 10
+2020-06-23 7:09:13 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\shop\system\library\db\mysqli.php on line 10
+2020-06-23 7:09:13 - PHP Notice:  Undefined variable: mysql in C:\xampp\htdocs\shop\install\controller\install\step_3.php on line 280
+2020-06-23 7:09:13 - PHP Notice:  Trying to get property 'connect_error' of non-object in C:\xampp\htdocs\shop\install\controller\install\step_3.php on line 280
+2020-06-23 7:15:49 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\shop\system\library\db\mysqli.php on line 7
+2020-06-23 7:15:49 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\shop\system\library\db\mysqli.php on line 10
+2020-06-23 7:15:49 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\shop\system\library\db\mysqli.php on line 10
+2020-06-23 7:15:49 - PHP Notice:  Undefined variable: mysql in C:\xampp\htdocs\shop\install\controller\install\step_3.php on line 280
+2020-06-23 7:15:49 - PHP Notice:  Trying to get property 'connect_error' of non-object in C:\xampp\htdocs\shop\install\controller\install\step_3.php on line 280
+2020-06-23 7:16:16 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\shop\system\library\db\mysqli.php on line 7
+2020-06-23 7:16:16 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\shop\system\library\db\mysqli.php on line 10
+2020-06-23 7:16:16 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\shop\system\library\db\mysqli.php on line 10
+2020-06-23 7:16:16 - PHP Notice:  Undefined variable: mysql in C:\xampp\htdocs\shop\install\controller\install\step_3.php on line 280
+2020-06-23 7:16:16 - PHP Notice:  Trying to get property 'connect_error' of non-object in C:\xampp\htdocs\shop\install\controller\install\step_3.php on line 280
+2020-06-23 7:16:20 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'foldevi_nastya'@'localhost' (using password: YES) in C:\xampp\htdocs\shop\system\library\db\mysqli.php on line 7
+2020-06-23 7:16:20 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\shop\system\library\db\mysqli.php on line 10
+2020-06-23 7:16:20 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\shop\system\library\db\mysqli.php on line 10
+2020-06-23 7:16:20 - PHP Notice:  Undefined variable: mysql in C:\xampp\htdocs\shop\install\controller\install\step_3.php on line 280
+2020-06-23 7:16:20 - PHP Notice:  Trying to get property 'connect_error' of non-object in C:\xampp\htdocs\shop\install\controller\install\step_3.php on line 280
+2020-06-23 7:16:36 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'foldevi_nastya'@'localhost' (using password: YES) in C:\xampp\htdocs\shop\system\library\db\mysqli.php on line 7
+2020-06-23 7:16:36 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\shop\system\library\db\mysqli.php on line 10
+2020-06-23 7:16:36 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\shop\system\library\db\mysqli.php on line 10
+2020-06-23 7:16:36 - PHP Notice:  Undefined variable: mysql in C:\xampp\htdocs\shop\install\controller\install\step_3.php on line 280
+2020-06-23 7:16:36 - PHP Notice:  Trying to get property 'connect_error' of non-object in C:\xampp\htdocs\shop\install\controller\install\step_3.php on line 280
+2020-06-23 7:16:47 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'foldevi_nastya'@'localhost' (using password: YES) in C:\xampp\htdocs\shop\system\library\db\mysqli.php on line 7
+2020-06-23 7:16:47 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\shop\system\library\db\mysqli.php on line 10
+2020-06-23 7:16:47 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\shop\system\library\db\mysqli.php on line 10
+2020-06-23 7:16:47 - PHP Notice:  Undefined variable: mysql in C:\xampp\htdocs\shop\install\controller\install\step_3.php on line 280
+2020-06-23 7:16:47 - PHP Notice:  Trying to get property 'connect_error' of non-object in C:\xampp\htdocs\shop\install\controller\install\step_3.php on line 280
+2020-06-23 7:17:01 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\shop\system\library\db\mysqli.php on line 7
+2020-06-23 7:17:01 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\shop\system\library\db\mysqli.php on line 10
+2020-06-23 7:17:01 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\shop\system\library\db\mysqli.php on line 10
+2020-06-23 7:17:01 - PHP Notice:  Undefined variable: mysql in C:\xampp\htdocs\shop\install\controller\install\step_3.php on line 280
+2020-06-23 7:17:01 - PHP Notice:  Trying to get property 'connect_error' of non-object in C:\xampp\htdocs\shop\install\controller\install\step_3.php on line 280
+2020-06-23 7:18:16 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\shop\system\library\db\mysqli.php on line 7
+2020-06-23 7:18:16 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\shop\system\library\db\mysqli.php on line 10
+2020-06-23 7:18:16 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\shop\system\library\db\mysqli.php on line 10
+2020-06-23 7:18:16 - PHP Notice:  Undefined variable: mysql in C:\xampp\htdocs\shop\install\controller\install\step_3.php on line 280
+2020-06-23 7:18:16 - PHP Notice:  Trying to get property 'connect_error' of non-object in C:\xampp\htdocs\shop\install\controller\install\step_3.php on line 280
+2020-06-23 7:18:25 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'foldevi_nastya'@'localhost' (using password: YES) in C:\xampp\htdocs\shop\system\library\db\mysqli.php on line 7
+2020-06-23 7:18:25 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\shop\system\library\db\mysqli.php on line 10
+2020-06-23 7:18:25 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\shop\system\library\db\mysqli.php on line 10
+2020-06-23 7:18:25 - PHP Notice:  Undefined variable: mysql in C:\xampp\htdocs\shop\install\controller\install\step_3.php on line 280
+2020-06-23 7:18:25 - PHP Notice:  Trying to get property 'connect_error' of non-object in C:\xampp\htdocs\shop\install\controller\install\step_3.php on line 280
+2020-06-23 7:21:37 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'foldevi_nastya'@'localhost' (using password: YES) in C:\xampp\htdocs\shop\system\library\db\mysqli.php on line 7
+2020-06-23 7:21:37 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\shop\system\library\db\mysqli.php on line 10
+2020-06-23 7:21:37 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\shop\system\library\db\mysqli.php on line 10
+2020-06-23 7:21:37 - PHP Notice:  Undefined variable: mysql in C:\xampp\htdocs\shop\install\controller\install\step_3.php on line 280
+2020-06-23 7:21:37 - PHP Notice:  Trying to get property 'connect_error' of non-object in C:\xampp\htdocs\shop\install\controller\install\step_3.php on line 280
+2020-06-23 7:22:41 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'new'@'localhost' (using password: NO) in C:\xampp\htdocs\shop\system\library\db\mysqli.php on line 7
+2020-06-23 7:22:41 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\shop\system\library\db\mysqli.php on line 10
+2020-06-23 7:22:41 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\shop\system\library\db\mysqli.php on line 10
+2020-06-23 7:22:41 - PHP Notice:  Undefined variable: mysql in C:\xampp\htdocs\shop\install\controller\install\step_3.php on line 280
+2020-06-23 7:22:41 - PHP Notice:  Trying to get property 'connect_error' of non-object in C:\xampp\htdocs\shop\install\controller\install\step_3.php on line 280
+2020-06-23 7:24:29 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\shop\system\library\mail\mail.php on line 77
